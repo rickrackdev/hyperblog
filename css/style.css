@@ -1,16 +1,25 @@
 body{
-    text-align: left;
-    font-family: "Arial";
+    background: #1e1f24;
     color: #333;
+    text-align: center;
+    font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 
 #header {
-    background: #33a;
-    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.5);
+    background: #37488b;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em 2em;
+}
+
+#header #logo{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #header #tagline {
