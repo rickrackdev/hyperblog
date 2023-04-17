@@ -8,3 +8,4 @@ An Amazing blog for the **GIT/GITHUB** Course
 
 - made by the incredible Platzi Team
 - includes examples on windows and linux
+- for all ages
